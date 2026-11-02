@@ -1,3 +1,5 @@
+# 과제 제공 스켈레톤(ETH Robot Learning 2026, HW3) 기반.
+# 직접 구현: ObstaclePolicy, MultiTaskPolicy, build_policy의 인자 전달 부분.
 """SO-100 모방 정책을 위한 모델 정의."""
 
 from __future__ import annotations

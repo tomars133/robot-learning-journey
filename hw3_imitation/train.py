@@ -1,3 +1,7 @@
+# 과제 제공 스켈레톤(ETH Robot Learning 2026, HW3) 기반. 대부분은 제공 코드.
+# 직접 구현: 학습 스텝, 평가 스텝, 하이퍼파라미터, optimizer(AdamW)와 scheduler(Cosine),
+#           모델 크기(d_model, depth) 체크포인트 저장
+
 """SO-100 action-chunking 모방 학습을 위한 학습 스크립트.
 
 hw3.model에서 모델을 임포트하고, 가공된 zarr 데이터셋을 사용하여
